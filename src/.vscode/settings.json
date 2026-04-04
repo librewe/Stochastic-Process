@@ -1,3 +1,6 @@
 {
-  "markdown-preview-enhanced.mathRenderingOption": "MathJax"
+  "markdown-preview-enhanced.mathRenderingOption": "MathJax",
+  "markdown-preview-enhanced.usePandocParser": false,
+  // "markdown-preview-enhanced.usePandocParser": true,
+  // "markdown-preview-enhanced.pandocPath": "./pandoc/pandoc.exe",
 }
