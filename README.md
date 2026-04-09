@@ -1,2 +1,2 @@
-# Random-Process
+# Stochastic-Process
 Assignments Archive
